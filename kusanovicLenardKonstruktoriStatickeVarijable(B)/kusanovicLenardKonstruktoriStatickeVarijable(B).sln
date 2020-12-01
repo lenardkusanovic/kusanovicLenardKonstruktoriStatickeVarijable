@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kusanovicLenardKonstruktoriStatickeVarijable(B)", "kusanovicLenardKonstruktoriStatickeVarijable(B)\kusanovicLenardKonstruktoriStatickeVarijable(B).csproj", "{CE5E91D2-F975-4689-AEA0-2215D1F82D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE5E91D2-F975-4689-AEA0-2215D1F82D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5E91D2-F975-4689-AEA0-2215D1F82D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5E91D2-F975-4689-AEA0-2215D1F82D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5E91D2-F975-4689-AEA0-2215D1F82D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2EB9292-8A11-48EE-B2B1-70F293195222}
+	EndGlobalSection
+EndGlobal
